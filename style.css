@@ -1,8 +1,5 @@
 body {
     background-color: #a5f6e6;
-}
-
-.text {
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -25,8 +22,14 @@ a {
     height: auto;
 }
 
+.queso_pic {
+    width: 600px;
+    height: auto;
+}
+
 .link_container {
     width: 800px;
     background-color: #f415bc;
     text-align: center;
 }
+
