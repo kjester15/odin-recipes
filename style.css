@@ -1,0 +1,32 @@
+body {
+    background-color: #a5f6e6;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    color: #4f70c5;
+    background-color: #f6902b;
+    font-size: 40px;
+    width: 800px;
+    text-align: center;
+}
+
+a {
+    font-size: 25px;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.main_pic {
+    width: 800px;
+    height: auto;
+}
+
+.link_container {
+    width: 800px;
+    background-color: #f415bc;
+    text-align: center;
+}
