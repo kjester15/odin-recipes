@@ -27,9 +27,12 @@ a {
     height: auto;
 }
 
-.link_container {
+.container {
     width: 800px;
     background-color: #f415bc;
     text-align: center;
 }
 
+.container.back {
+    height: 30px;
+}
